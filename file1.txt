@@ -2,3 +2,4 @@ file1
 branch1
 master
 conflict1
+conflict2
