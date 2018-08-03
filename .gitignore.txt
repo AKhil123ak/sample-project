@@ -1,1 +1,4 @@
 akhil repo/
+
+# ignore
+*.txt
