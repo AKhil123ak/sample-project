@@ -2,3 +2,4 @@ akhil repo/
 
 # ignore
 *.txt
+*.pem
