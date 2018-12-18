@@ -1,5 +1,9 @@
 akhil repo/
 
 # ignore
+<<<<<<< HEAD
 *.txt
 *.pem.txt
+=======
+*.txt
+>>>>>>> parent of 20e82ff... ignore
